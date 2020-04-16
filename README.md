@@ -1,2 +1,2 @@
 # Cookbook
-This repository is for learning GIT
+This repository is for learning GIT. Hello world
